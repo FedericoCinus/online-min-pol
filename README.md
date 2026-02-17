@@ -36,10 +36,10 @@ Figures are saved in the `figures/` directory.
 ## Citation
 
 ```bibtex
-@inproceedings{cinus2026online,
+@article{cinus2025online,
   title={Online Minimization of Polarization and Disagreement via Low-Rank Matrix Bandits},
   author={Cinus, Federico and Kuroki, Yuko and Miyauchi, Atsushi and Bonchi, Francesco},
-  booktitle={International Conference on Learning Representations},
-  year={2026}
+  journal={arXiv preprint arXiv:2510.00803},
+  year={2025}
 }
 ```

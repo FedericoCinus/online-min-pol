@@ -1,0 +1,5 @@
+{
+  "lab_opd": "Ours ($2|V|-1$) [14.76\u00b11.08s]",
+  "lab_ofu": "OFUL ($|V|^2$) [78.07\u00b14.69s]",
+  "lab_oracle": "Oracle Subspace OFUL"
+}
